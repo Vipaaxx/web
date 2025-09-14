@@ -69,9 +69,9 @@
 
         <div class="prices">
             <h2>💰 Prices:</h2>
-            <p>• Website: 2+ (Hosting not included)<br>
-               • Discord Bot: 5+ (Includes 30 days free hosting)<br>
-               • Minecraft Plugin: 5+ (Hosting not included)</p>
+            <p>• Website: 2$+ (Hosting not included)<br>
+               • Discord Bot: 5$+ (Includes 30 days free hosting)<br>
+               • Minecraft Plugin: 5$+ (Hosting not included)</p>
         </div>
 
         <p>⸻</p>
